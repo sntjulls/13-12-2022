@@ -1,0 +1,22 @@
+table{
+    width: 80%;
+    border: 3px border rebeccapurple;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th, td{
+    width: 20%;
+    padding: 0.5em;
+    border: inherit;
+    border: 3px solid salmon;
+    vertical-align: bottom;
+}
+
+.size{
+    width: 10%;
+}
+
+.aling-right{
+    text-align: right;
+}
